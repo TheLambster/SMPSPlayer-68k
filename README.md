@@ -1,5 +1,5 @@
 # SMPSPlayer-68k (fork of Oerg866's SMPS player)
--------------------------------------------------
+=================================================
 This is my own personal fork of Oerg866's SMPS player, it's basically a stripped-down version of his SMPS player, and it also includes different songs.
 -------------------------------------------------
 Edits:
@@ -9,7 +9,7 @@ Some ASM files removed
 More songs
 -------------------------------------------------
 Added SMPS2ASM
--------------------------------------------------
+=================================================
 Songs Included:
 -------------------------------------------------
 Song 1 (ID 81): Cursed Casino act 2 - Untitled Sonic 1 Hack (Jurrasic Park GB - Level 1)

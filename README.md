@@ -1,5 +1,4 @@
 # SMPSPlayer-68k (fork of Oerg866's SMPS player)
-=================================================
 This is my own personal fork of Oerg866's SMPS player, it's basically a stripped-down version of his SMPS player, and it also includes different songs.
 -------------------------------------------------
 Edits:

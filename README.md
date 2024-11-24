@@ -8,7 +8,9 @@ Some ASM files removed
 More songs
 
 Added SMPS2ASM
-=================================================
+
+==============================================
+
 Songs Included:
 
 Song 1 (ID 81): Cursed Casino act 2 - Untitled Sonic 1 Hack (Jurrasic Park GB - Level 1)
